@@ -4,3 +4,4 @@ RECETA
 2. Papas
 3. Cebolla
 4. Aceite
+5. Sal
